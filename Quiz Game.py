@@ -72,7 +72,7 @@ questions = {"Who created Python?:": "A",
 options = [
     ["A. Guido van Rossum","B. Bill Gates","C. Mark Zuckerberg","D. Jeff Bezos"],
     ["A. 1989","B. 1991","C. 2001","D. 2011"],
-    ["A. echo('Hello World')","B. print('Hello World')","C. p('Hell World')","D. print(Hell World)"],
+    ["A. echo(Hello World)","B. print(Hello World)","C. p(Hell World)","D. paste(Hell World)"],
     ["A. Flask","B. React", "C. Node.JS", "D. Django"],
     ["A. Cobol, Fortan, Basic", "B. Swift, Kotlin, Dart", "C. Python, R, Java", "D. SQL, HTML, PHP"]
 ]
